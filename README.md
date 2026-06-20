@@ -2,14 +2,14 @@
 
 **Tech Stack**
 
--Python
--Streamlit
--LangChain
--Groq API
--Google Gemini
--ChromaDB
--Sentence Transformers
--HuggingFace Embeddings
--PyPDF
--TTS
--STT
+- Python
+- Streamlit
+- LangChain
+- Groq API
+- Google Gemini
+- ChromaDB
+- Sentence Transformers
+- HuggingFace Embeddings
+- PyPDF
+- TTS
+- STT
