@@ -1,34 +1,18 @@
-**An AI-powered Research Assistant that enables conversational question-answering over PDF documents using Retrieval-Augmented Generation (RAG), vector embeddings, semantic search, and LLMs such as Groq and Gemini.**
-
-**Tech Stack**
-
-- Python
-- Streamlit
-- LangChain
-- Groq API
-- Google Gemini
-- ChromaDB
-- Sentence Transformers
-- HuggingFace Embeddings
-- PyPDF
-- TTS
-- STT
-
-# 📚 AI-Powered Research Assistant
+#  AI-Powered Research Assistant
 
 An intelligent Research Assistant that enables users to interact with PDF documents through natural language conversations. The application leverages **Retrieval-Augmented Generation (RAG)**, **vector embeddings**, **semantic search**, and **Large Language Models (LLMs)** to provide accurate, context-aware answers from uploaded documents.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📄 Upload and analyze PDF documents
-- 🔍 Semantic search using vector embeddings
-- 🤖 Conversational question-answering over documents
-- 🧠 Retrieval-Augmented Generation (RAG) pipeline
-- ⚡ Fast inference using Groq-powered LLMs
-- ✨ Support for Google Gemini models
-- 🎙️ Speech-to-Text (STT) for voice queries
-- 🔊 Text-to-Speech (TTS) for spoken responses
-- 💾 Persistent vector storage using ChromaDB
-- 📚 Multi-document knowledge retrieval
+-  Upload and analyze PDF documents
+-  Semantic search using vector embeddings
+-  Conversational question-answering over documents
+-  Retrieval-Augmented Generation (RAG) pipeline
+-  Fast inference using Groq-powered LLMs
+-  Support for Google Gemini models
+-  Speech-to-Text (STT) for voice queries
+-  Text-to-Speech (TTS) for spoken responses
+-  ChromaDB Vector storage
+-  Multi-document knowledge retrieval
